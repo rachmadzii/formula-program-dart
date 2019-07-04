@@ -47,7 +47,6 @@ void main() {
   var hasilSegitiga = RumusSegitiga();
   var jawaban;
 
-  program:
   do {
     print("1. Hitung Luas Persegi Panjang");
     print("2. Hitung Luas Persegi");
@@ -75,5 +74,4 @@ void main() {
     stdout.write("Ingin mengulang? (y/n) ");
     jawaban = stdin.readLineSync();
   } while (jawaban == 'Y' || jawaban == 'y');
-  return;
 }
