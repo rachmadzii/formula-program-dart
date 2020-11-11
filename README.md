@@ -1,1 +1,0 @@
-﻿# Program Perhitungan Bangun Datar
